@@ -1,3 +1,5 @@
 # This is another file
 
-just want to see if we can link to another file
+Just want to see if we can link to another file
+
+[Back to home](index.md)
