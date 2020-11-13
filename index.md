@@ -39,3 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### This is a link to another page
 [Second Page](secondFile.md)
 
+### This is a link to an HTML page
+[HTML Page](thirdFile.html)
+
